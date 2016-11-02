@@ -1,12 +1,12 @@
 {
-  "name": "2016-10-12-cincijs-meetup",
+  "name": "2016-11-02-dayton-web-developers-meetup",
   "description": "Building serverless web applications with JavaScript, APIs, and markup.",
   "version": "0.1.0",
-  "homepage": "https://github.com/doowb/2016-10-12-cincijs-meetup",
+  "homepage": "https://github.com/doowb/2016-11-02-dayton-web-developers-meetup",
   "author": "Brian Woodward (https://github.com/doowb)",
-  "repository": "doowb/2016-10-12-cincijs-meetup",
+  "repository": "doowb/2016-11-02-dayton-web-developers-meetup",
   "bugs": {
-    "url": "https://github.com/doowb/2016-10-12-cincijs-meetup/issues"
+    "url": "https://github.com/doowb/2016-11-02-dayton-web-developers-meetup/issues"
   },
   "license": "MIT",
   "files": [
