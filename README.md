@@ -1,6 +1,6 @@
 ## What is this?
 
-This repository contains the slides for a talk given at a [Cincinnati JavaScript User Group meetup](https://www.meetup.com/Cincinnati-Javascript-User-Group/events/234407546/).
+This repository contains the slides for a talk given at a [Dayton Web Developers meetup](https://www.meetup.com/dayton-web-developers/events/226548666/).
 
 ## Build
 
